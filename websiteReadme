@@ -1,0 +1,2 @@
+created a car repair shop with front end and back end implementation. had some issues with backend php with updating user account details due to errors within
+database primary and foriegn keys. However the key functions of the website still work with the need to update a few php code files.
